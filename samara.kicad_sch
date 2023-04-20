@@ -1,0 +1,48 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid 4a73b860-9117-479a-bb0f-184d1054fc10)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (sheet (at 149.86 27.94) (size 123.19 87.63) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 25081a63-0f96-482c-9aad-a75413450bf0)
+    (property "Sheetname" "right_hand" (at 149.86 27.2284 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "right_hand.kicad_sch" (at 149.86 116.1546 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "samara"
+        (path "/4a73b860-9117-479a-bb0f-184d1054fc10" (page "2"))
+      )
+    )
+  )
+
+  (sheet (at 23.495 27.305) (size 114.935 88.265) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 2a307434-9187-45c2-bab7-9b5c32150d7b)
+    (property "Sheetname" "left_hand" (at 23.495 26.5934 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "left_hand.kicad_sch" (at 23.495 116.1546 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "samara"
+        (path "/4a73b860-9117-479a-bb0f-184d1054fc10" (page "3"))
+      )
+    )
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)
