@@ -1,4 +1,4 @@
-21636988665028811
+21638670659059596
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -90089,6 +90089,13 @@ QFN DFN_QFN
 0
 70
 57
+parts
+SOT143B
+
+
+0
+4
+4
 parts
 au-mu-mix
 

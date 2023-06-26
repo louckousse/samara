@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "lckprt")(type "KiCad")(uri "${KIPRJMOD}/kicad-parts/lckprt.kicad_sym")(options "")(descr ""))
+)
