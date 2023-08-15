@@ -56,7 +56,12 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "malformed_courtyard|242627582|58081553|d7355aa4-882b-427d-ad1c-d2b6c11aac18|00000000-0000-0000-0000-000000000000",
+        "malformed_courtyard|250127582|57081553|d7355aa4-882b-427d-ad1c-d2b6c11aac18|00000000-0000-0000-0000-000000000000",
+        "malformed_courtyard|31178287|58081553|f77f3630-1fcf-4eb0-866d-ef075d5b0bc4|00000000-0000-0000-0000-000000000000",
+        "malformed_courtyard|38678287|57081553|f77f3630-1fcf-4eb0-866d-ef075d5b0bc4|00000000-0000-0000-0000-000000000000"
+      ],
       "meta": {
         "version": 2
       },
